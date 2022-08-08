@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.image {
+    width: 25vw;
+}
+
+
+.about {
+    color: white;
+    width: 50vw;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 0px;
+    margin-right: 100px;
+}
+
+.Social {
+    width: 6vw;
+    margin-top: 60px;
+}
+
+.container {
+    background-color: rgb(186, 118, 17);
+    display: flex;
+}
+
+
+.img {
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    clip-path: circle();
+}
+h3 {
+    background-color: rgb(54, 52, 52);
+    text-align: center;
+    color: white;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.html, .css, .javascript, .bootstrap, .mongodb, .node-js, .react, .heroku {
+    width: 10vw;
+    margin-left: 40px;
+}
+
+
+.container1 {
+    display: flex;
+    background-color: antiquewhite;
+    margin-top: 0px;
+}
+
+.hobbies {
+    background-color: antiquewhite;
+}
+
+ul {
+    margin-left: 20px;
+}
